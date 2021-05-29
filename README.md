@@ -1,2 +1,2 @@
 # SEUS-v11.0-Minecraft-Shader
-A Minecrfat Shader slightly modified by myself
+A Minecraft Shader slightly modified by myself
